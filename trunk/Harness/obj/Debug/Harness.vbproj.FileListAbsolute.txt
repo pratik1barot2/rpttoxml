@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\bin\Debug\Harness.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\bin\Debug\Harness.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\bin\Debug\Harness.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\bin\Debug\RptToXml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\bin\Debug\RptToXml.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\bin\Debug\RptToXml.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\obj\Debug\Harness.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\obj\Debug\Harness.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\obj\Debug\Harness.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\obj\Debug\Harness.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\Harness\obj\Debug\Harness.pdb

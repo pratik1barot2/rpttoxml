@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\bin\Debug\RptToXml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\bin\Debug\RptToXml.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\bin\Debug\RptToXml.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\obj\Debug\RptToXml.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\obj\Debug\RptToXml.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\obj\Debug\RptToXml.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\obj\Debug\RptToXml.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RptToXml\RptToXml\obj\Debug\RptToXml.pdb
